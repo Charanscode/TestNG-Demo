@@ -20,4 +20,13 @@ public class DEMO {
 		System.out.println("Bye1");
 		System.out.println("Bye2");
 	}
+	
+	@Test
+	public void second1()
+
+	{
+		System.out.println("Bye");
+		System.out.println("Bye1");
+		System.out.println("Bye2");
+	}
 }

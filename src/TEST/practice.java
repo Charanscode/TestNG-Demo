@@ -18,4 +18,13 @@ public class practice {
 		System.out.println("started2");
 		System.out.println("started1");
 	}
+	
+	@Test
+	public void p12()
+	{
+		System.out.println("good to start");
+		System.out.println("good to start1");
+		System.out.println("good to start2");
+	}
+	
 }
