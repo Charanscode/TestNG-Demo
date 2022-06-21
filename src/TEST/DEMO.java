@@ -29,4 +29,14 @@ public class DEMO {
 		System.out.println("Bye1");
 		System.out.println("Bye2");
 	}
+	
+	@Test
+	public void first1() {
+
+		System.out.println("hello");
+		System.out.println("hello1");
+		System.out.println("hello2");
+	}
+	
+	
 }
